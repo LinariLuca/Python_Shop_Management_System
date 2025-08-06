@@ -1,5 +1,7 @@
 # 🛒 Python Shop Management System
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/downloads/)
+
 This project is a simple **shop simulation system** developed in Python using Object-Oriented Programming.  
 It allows you to manage a shop's inventory, handle employee operations, and simulate real customer behavior including **reviews** and **regional analytics**.
 
