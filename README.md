@@ -39,7 +39,7 @@ It allows you to manage a shop's inventory, handle employee operations, and simu
 ## 💡 How to Run 
 
 1. Clone this repository at URL: https://github.com/LinariLuca/Python_Shop_Management_System.git
-2. cd shop-management-system
+2. cd Python_Shop_Management_System-main
 3. python main.py
 4. Test the project like a Employee!
 
